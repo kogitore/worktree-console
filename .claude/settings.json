@@ -1,0 +1,10 @@
+{
+  "sandbox": {
+    "excludedCommands": [
+      "ssh *",
+      "scp *",
+      "sftp *",
+      "rsync *"
+    ]
+  }
+}
